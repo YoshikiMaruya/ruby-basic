@@ -1,6 +1,7 @@
 #!/bin/bash
 #2021/02/16 YoshikiMaruya
 
+
 read NUMBER1
 read NUMBER2
 
