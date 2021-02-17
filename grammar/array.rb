@@ -6,6 +6,7 @@ def to_hex (r, g, b)
     hex
 end
 
+
 def to_ints(hex)
     r = hex[1..2]
     g = hex[3..4]
